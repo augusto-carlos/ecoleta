@@ -1,14 +1,14 @@
-# ecoleta
-Projecto desenvolvido durante a NLW da Rocketseat
+<h2 align="center">
+  ecoleta
+</h2>
 
+<p align="center">
+  Projecto desenvolvido durante a semana Next Level Week da Rocketseat :rocket:
+</p>
 
 <p align="center">
   <img alt="Frontend" src="https://github.com/augusto-carlos/ecoleta/blob/master/ecoleta-web.png" width="95%">
 </p>
-
-<h2 align="center">
-  Ecoleta
-</h2>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/augusto-carlos/ecoleta">
